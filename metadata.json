@@ -1,0 +1,6 @@
+{
+  "name": "Math-to-Word Pro Converter",
+  "description": "Convert math documents, exam papers, PDFs, and handwritten equations into Microsoft Word (.docx), Markdown, and LaTeX with AI OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
